@@ -16,7 +16,10 @@ main {
     background-color: #96c1d7;
     font-size: 110%;
 }
-
+a {
+    background-color:  #FFFFFF;
+    color: #0057AD;
+}
 footer {
     background-color: #89898b;
 }
